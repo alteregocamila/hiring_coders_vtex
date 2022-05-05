@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Camila Teixeira</title>
+    <link href="./style.css" rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;1,200&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="shortcut icon"
+      href="./images/favicon_io/favicon_io(1)/favicon.ico"
+      type="image/x-icon"
+    />
+    <script
+      src="https://kit.fontawesome.com/2219952c33.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <header>
+      <div>
+        <img
+          src="./images/favicon_io/favicon_io(1)/apple-touch-icon.png"
+          alt="Logo"
+        />
+      </div>
+      <ul>
+        <li>
+          <a href="https://github.com/alteregocamila" target="_blank">GitHub</a>
+        </li>
+        <li>
+          <a href="mailto:teste@teste.com" target="_blank">E-mail</a>
+        </li>
+        <li>
+          <a href="https://wa.me/21999999999" target="_blank">Me Liga!</a>
+        </li>
+      </ul>
+    </header>
+    <main>
+      <section class="container">
+        <div class="name">
+          <h1>Camila Teixeira</h1>
+          <h5>Data Analyst</h5>
+        </div>
+        <div onclick="displayAbout()" id="arrow">
+          <i id="animation" class="fa-solid fa-sort-down"></i>
+        </div>
+        <div style="display: none" id="about">
+          <p>
+            Olá, Eu sou a Camila. Tenho grande interesse por Data Science e
+            atualmenete estou estudando SQL, Python e Microsoft Power BI. Esse
+            interesse surgiu ao cursar a disciplina de Programação na Faculdade
+            de Engenharia de Produção, onde tive meu primeiro contato com
+            Python. Comecei minha jornada na área de dados com os cursos da Data
+            Science Academy - Microsoft Power BI Para Data Science e Python
+            Fundamentos Para Análise de Dados.
+          </p>
+        </div>
+        <div class="form">
+          <div>
+            <p>Quer conversar comigo sobre Dados?</p>
+            <p>Deixe seu contato!</p>
+          </div>
+          <form action="">
+            <input type="text" placeholder="seu melhor e-mail ;)" />
+            <button>enviar!</button>
+          </form>
+        </div>
+      </section>
+    </main>
+
+    <script>
+      function displayAbout() {
+        var arrow = document.getElementById('animation')
+        arrow.classList.toggle('rotate')
+        var display = document.getElementById('about')
+        display.classList.toggle('active')
+      }
+    </script>
+  </body>
+</html>
