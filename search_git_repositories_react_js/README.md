@@ -6,9 +6,9 @@ Project developed during classes at Bootcamp Hiring Coders 3 VTEX, from Gama Aca
 
 Fundamental concepts of React were approached through the construction of a simple and functional application.
 
-![The initial screen of the application, in which the search for the Github user takes place..]('https://github.com/alteregocamila/hiring_coders_vtex/blob/main/search_git_repositories_react_js/src/images/search_repository.PNG')
+![The initial screen of the application, in which the search for the Github user takes place.](./src/images/search_repository.PNG 'The initial screen of the application, in which the search for the Github user takes place.')
 
-![The screen where the searched users' repositories are displayed.](https://github.com/alteregocamila/hiring_coders_vtex/blob/main/search_git_repositories_react_js/src/images/repository.PNG')
+![The screen where the searched users' repositories are displayed.](./src/images/repository.PNG 'The screen where the searched users' repositories are displayed.')
 
 The concepts covered were:
 
