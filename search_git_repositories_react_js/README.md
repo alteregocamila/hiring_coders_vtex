@@ -13,14 +13,14 @@ Fundamental concepts of React were approached through the construction of a simp
 The concepts covered were:
 
 - Hooks;
-- Componentes;
-- Propriedades;
-- Estado;
-- Rotas (com react-router-dom);
-- Requisições a APIs externas (com express);
-- Eventos;
-- Estilização (com styled-components);
-- Lidando com erros e experiência do usuário.
+- Components;
+- Properties;
+- State;
+- Routes (with react-router-dom);
+- Requests to external APIs (with express);
+- Events;
+- Styling (with styled-components);
+- Handling errors and user experience.
 
 ## Running the application
 
