@@ -10,4 +10,4 @@ Training program to teach programming, digital commerce. Skills Covered: Front E
 
 - [🦸‍♀Search GitHub Repositories - react js application](https://github.com/alteregocamila/hiring_coders_vtex/tree/main/search_git_repositories_react_js)
 
-- [🚀Client-Server Application - GraphQL application](https://github.com/alteregocamila/hiring_coders_vtex/tree/main/search_git_repositories_react_js)
+- [🚀Client-Server Application - GraphQL application](https://github.com/alteregocamila/hiring_coders_vtex/tree/main/client-server-application)
