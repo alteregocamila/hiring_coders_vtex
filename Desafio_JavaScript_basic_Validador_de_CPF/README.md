@@ -1,4 +1,4 @@
-# "Semana 2 - JavaScript básico"
+# "Week 2 - JavaScript"
 
 In this section we learned how to build a personal document validator using JavaScript.
 
