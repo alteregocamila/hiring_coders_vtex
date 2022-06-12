@@ -1,4 +1,4 @@
-# Search GitHub Repositories - react js application
+# Search GitHub Repositories - REACT.JS application
 
 Project developed during classes at Bootcamp Hiring Coders 3 VTEX, from Gama Academy.
 
