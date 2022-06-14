@@ -13,3 +13,5 @@ Training program to teach programming, digital commerce. Skills Covered: Front E
 - [🚀Client-Server Application - GraphQL application](https://github.com/alteregocamila/hiring_coders_vtex/tree/main/client-server-application)
 
 - [🦸‍♀Scheduling System - NODE.JS Application - HTTP GET and HTTP POST](https://github.com/alteregocamila/hiring_coders_vtex/tree/main/scheduling-system_nodejs)
+
+- [🚀API Cielo - NODE.JS - Postman application](https://github.com/alteregocamila/hiring_coders_vtex/tree/main/api-cielo)
